@@ -22,7 +22,7 @@ The extension sends requests directly from your browser to:
 | Service | What is sent | Purpose |
 |---|---|---|
 | lrclib.net | Song title, artist, album and duration of the current track | Fetch synced lyrics |
-| Google Gemini API (generativelanguage.googleapis.com, aiplatform.googleapis.com) | Lyrics text and your own API key | Optional AI lyrics translation (only when you enable it and provide a key) |
+| Google Gemini API (generativelanguage.googleapis.com) | Lyrics text and your own API key | Optional AI lyrics translation (only when you enable it and provide a key) |
 
 These services have their own privacy policies:
 - lrclib.net: https://lrclib.net
@@ -62,7 +62,7 @@ EMAIL:tompeng2@gmail.com
 | 服務 | 傳送內容 | 用途 |
 |---|---|---|
 | lrclib.net | 目前播放歌曲的歌名、歌手、專輯與長度 | 取得同步歌詞 |
-| Google Gemini API(generativelanguage.googleapis.com、aiplatform.googleapis.com) | 歌詞文字與你自己的 API Key | 選用的 AI 歌詞翻譯(僅在你啟用並提供 Key 時) |
+| Google Gemini API(generativelanguage.googleapis.com) | 歌詞文字與你自己的 API Key | 選用的 AI 歌詞翻譯(僅在你啟用並提供 Key 時) |
 
 這些服務有各自的隱私權政策:
 - lrclib.net:https://lrclib.net
